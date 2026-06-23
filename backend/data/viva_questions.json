@@ -1,0 +1,106 @@
+{
+  "0d38e585-00c8-46e9-b5b1-86fe38b59c4b": [
+    {
+      "question": "How does the proposed approach improve upon existing work in this domain?",
+      "answer": "A greater area under the ROC curve (AUC) signifies a system that consistently outperforms its peers.  Dice Coefficient: The Dice coefficient takes the lead in assessing the spatial accord between the projected tumor region and the ground truth, often in the form of manual segmentation."
+    },
+    {
+      "question": "Describe the experimental setup and validation strategy used in this study.",
+      "answer": "In this article, we delve into what you can anticipate from the experimental results of brain tumor detection, including key evaluation metrics. © 2024 IJNRD | Volume 9, Issue 2 February 2024| ISSN: 2456-4184 | IJNRD.ORG IJNRD2402145 International Journal of Novel Research and Development (www.ijnrd.org) b348 FIGURE 2."
+    },
+    {
+      "question": "Explain the key components of the proposed system architecture.",
+      "answer": "Let's delve into the framework and inner workings of this architecture:  Convolutional Layers: CNNs are constructed upon a bedrock of convolutional layers."
+    },
+    {
+      "question": "What were the primary experimental results and key performance metrics?",
+      "answer": "This system, requiring minimal pre-processing, consists of three CNN layers and has achieved an impressive accuracy of 96.08% with an f-score of 97.3."
+    },
+    {
+      "question": "If you were to extend this work, what key limitations would you address first?",
+      "answer": "Currently, the conventional approach employed by medical professionals for the detection of brain tumors relies on the manual examination of MR images."
+    },
+    {
+      "question": "What is the clinical or real-world significance of the findings in this paper?",
+      "answer": "Before these systems can be integrated into actual patient care, rigorous clinical validation and real-world performance assessments in clinical settings are indispensable prerequisites. 6."
+    }
+  ],
+  "5feab155-aa0e-41cf-bc08-cfd3765d01bd": [
+    {
+      "question": "How does the proposed approach improve upon existing work in this domain?",
+      "answer": "In comparison, ViT attained 90% accuracy with a loss of 0.30 and an F1-score, precision, and recall of 0.89."
+    },
+    {
+      "question": "Describe the experimental setup and validation strategy used in this study.",
+      "answer": "The framework uses a Random Forest (RF) technique with 10-fold cross-validation to provide the best results on a 600- gene dataset."
+    },
+    {
+      "question": "Explain the key components of the proposed system architecture.",
+      "answer": "AbuEid, ‘‘Amyotrophic lateral sclerosis prediction framework using a multi-level encoders–decoders-based ensemble architecture tech- nology,’’ J."
+    },
+    {
+      "question": "What were the primary experimental results and key performance metrics?",
+      "answer": "EfficientNetV2 achieved an accuracy of 95% with a loss of 0.13, alongside an F1-score, precision, and recall of 0.96."
+    },
+    {
+      "question": "If you were to extend this work, what key limitations would you address first?",
+      "answer": "Through a critical analysis of both strengths and limitations, the review highlights challenges such as the scarcity of anno- tated data and image variability."
+    },
+    {
+      "question": "What is the clinical or real-world significance of the findings in this paper?",
+      "answer": "This research contributes to the advancement of AI-driven medical diagnostics and has the potential to improve clinical decision-making in brain tumor assessment."
+    }
+  ],
+  "40efecce-6c1a-4bb0-ae13-58bf4401e7e5": [
+    {
+      "question": "How does the proposed approach improve upon existing work in this domain?",
+      "answer": "These curves indicate that the Proposed Model consistently outperforms the Initial Model, achieving better validation performance across all stages of training. 5 \u0007 Discussion and comparison In this study, a novel XAI-based CNN method is pre- sented for classifying brain tumors."
+    },
+    {
+      "question": "Describe the experimental setup and validation strategy used in this study.",
+      "answer": "In meningiomas, SHAP-based heatmaps emphasized the extraaxial location along the meninges, aligning with their well-defined, homogeneous Table 4 Key Hyperparameters for Experimental Setup Parameter Value Optimizer Adam Learning rate 0.001 Loss function Sparse categorical cross entropy Batch size 40 Epochs 40 Page 13 of 19 Iftikhar et al."
+    },
+    {
+      "question": "Explain the key components of the proposed system architecture.",
+      "answer": "The CNN architecture comprised 24 layers designed for feature extraction."
+    },
+    {
+      "question": "What were the primary experimental results and key performance metrics?",
+      "answer": "The prime contributions of our research include: 1) Identifying real contributing abnormal tissues from the brain MRIs using XAI to enhance the overall performance of brain tumor classification. 2) Achieving an interpretable model that provides transparency into model decision-making process making it superior to existing non-interpretable approaches. 3) Providing insights into the decision-making process of model to reduce the number of layers in brain tumor classification models. 4) Achieving improved accuracy, precision, recall, and F1-score of 99% on Dataset-1 and 94% on Dataset-2."
+    },
+    {
+      "question": "If you were to extend this work, what key limitations would you address first?",
+      "answer": "Our work addresses these limitations by intro- ducing a novel methodology that combines Explainable AI (XAI) techniques with a Convolutional Neural Network (CNN) architecture."
+    },
+    {
+      "question": "What is the clinical or real-world significance of the findings in this paper?",
+      "answer": "However, the minimal drop in accuracy indicates a strong generalization, mak- ing the model a reliable choice for real-world clinical applications."
+    }
+  ],
+  "6cca3336-8d1c-40f4-bb2a-d9581b1c1691": [
+    {
+      "question": "How does the proposed approach improve upon existing work in this domain?",
+      "answer": "In comparison, ViT attained 90% accuracy with a loss of 0.30 and an F1-score, precision, and recall of 0.89."
+    },
+    {
+      "question": "Describe the experimental setup and validation strategy used in this study.",
+      "answer": "The framework uses a Random Forest (RF) technique with 10-fold cross-validation to provide the best results on a 600- gene dataset."
+    },
+    {
+      "question": "Explain the key components of the proposed system architecture.",
+      "answer": "AbuEid, ‘‘Amyotrophic lateral sclerosis prediction framework using a multi-level encoders–decoders-based ensemble architecture tech- nology,’’ J."
+    },
+    {
+      "question": "What were the primary experimental results and key performance metrics?",
+      "answer": "EfficientNetV2 achieved an accuracy of 95% with a loss of 0.13, alongside an F1-score, precision, and recall of 0.96."
+    },
+    {
+      "question": "If you were to extend this work, what key limitations would you address first?",
+      "answer": "Through a critical analysis of both strengths and limitations, the review highlights challenges such as the scarcity of anno- tated data and image variability."
+    },
+    {
+      "question": "What is the clinical or real-world significance of the findings in this paper?",
+      "answer": "This research contributes to the advancement of AI-driven medical diagnostics and has the potential to improve clinical decision-making in brain tumor assessment."
+    }
+  ]
+}

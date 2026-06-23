@@ -1,0 +1,49 @@
+{
+  "0d38e585-00c8-46e9-b5b1-86fe38b59c4b": {
+    "title": "Brain Tumor Detection Using Deep Learning",
+    "short_summary": "© 2024 IJNRD | Volume 9, Issue 2 February 2024| ISSN: 2456-4184 | IJNRD.ORG IJNRD2402145 International Journal of Novel Research and Development (www.ijnrd.org) b345 Brain Tumor Detection Using Deep Learning Techniques 1Ch. Keywords: Convolution Neural Network, Machine Learning, Brain tumor, Algorithms. 1. Detection of Brain Tumor Sensitivity (True Positive Rate): Sensitivity shines a spotlight on a brain tumor detection system's knack for accurately flagging true positive cases.",
+    "detailed_summary": "### Research Overview\nTumors are a prominent concern in modern healthcare, ranking as the second leading cause of cancer-related fatalities and posing a significant threat to countless patients\n\n### Introduction & Background\nThe human brain stands as the most critical and indispensable organ within the human body, underscoring the utmost importance of its proper functioning...\n\n### Experimental Results\nEXPERIMENTAL RESULTS When it comes to detecting brain tumors in medical imaging, experimental results can be a mixed bag...\n\n### Conclusion & Future Scope\nIn the world of medical innovation, our brain tumor detection project stands as a beacon of hope. It's a testament to the potent fusion of cutting-edge technology and unwavering human dedication. Our results offer more than just numbers; they represent the promise of early detection, a transformed future for medical diagnostics, and a glimmer of hope for those battling brain tumors. As we conclude this chapter, we recognize that our journey is fa...",
+    "keywords": [
+      "Convolution Neural Network",
+      "Machine Learning",
+      "Brain Tumor",
+      "Algorithms",
+      "1"
+    ]
+  },
+  "5feab155-aa0e-41cf-bc08-cfd3765d01bd": {
+    "title": "Digital Object Identifier 10.1",
+    "short_summary": "We propose a deep learning-based multi-class classification approach for brain tumor detection, leveraging EfficientNetV2 and Vision Transformer (ViT) models to address this challenge. Tariq et al.: Transforming Brain Tumor Detection Empowering Multi-Class Classification of other brain tumor subtypes, such as meningiomas and pituitary tumors, further exacerbates the clinical intricacy of these patients. Tariq et al.: Transforming Brain Tumor Detection Empowering Multi-Class Classification In recent advancements in brain tumor classification, attention-based methods have proven effective.",
+    "detailed_summary": "### Research Overview\nBrain Tumor is a significant health challenge, with early, precise detection crucial for improving patient outcomes\n\n### Introduction & Background\nBrain tumors, comprising a diverse array of approximately 200 aberrant tissue growths, present a formidable challenge to human health...\n\n### Experimental Results\nDigital Object Identifier 10.1 109/ACCESS.2025.3555638 Transforming Brain Tumor Detection Empowering Multi-Class Classification With Vision Transformers and EfficientNetV2 ANEES TARIQ 1, MUHAMMAD MUNWAR IQBAL 1, MUHAMMAD JAVED IQBAL 1, AND IFTIKHAR AHMAD 2, (Member, IEEE) 1Department of Computer Science, University of Engineering and Technology, Taxila 47050, Pakistan 2Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah 21589,...\n\n### Conclusion & Future Scope\nAND FUTURE WORK This study proposed multi-class brain tumor detection using an EfficientNetV2 and vision transformer. We performed our experiment on a publicly available dataset named the Brain Tumor MRI dataset. The proposed model success- fully detects brain tumors using different images based on brain tumors. The sample comprised glioma, meningioma, no cancer, and pituitary class brain tumor. EfficientNetV2 and ViT models were used, which are...",
+    "keywords": [
+      "Efficientnetv2",
+      "Convolutional Neural Network (Cnn)",
+      "Brain Tumor Vision Transformers (Vit)",
+      "Magnetic Resonance Imaging (Mri)",
+      "Multilayer Perceptron (Mlp)"
+    ]
+  },
+  "40efecce-6c1a-4bb0-ae13-58bf4401e7e5": {
+    "title": "Iftikhar et al. Brain Informatics           (2025) 12:10",
+    "short_summary": "Moreover, previous studies did not use XAI to simplify brain tumor classification models or enhance their performance. Moreover, papers on brain tumor classification with explainability are also selected. For model evaluation, the dataset containing 7022 MRIs of the brain with 4 classes was used.",
+    "detailed_summary": "### Research Overview\nDespite significant advancements in brain tumor classification, many existing models suffer from complex structures that make them difficult to interpret\n\n### Introduction & Background\nA tumor forms when cells grow abnormally and aggregate into a mass or lump, significantly representing deviating from normal cellular behavior...\n\n### Proposed Methodology\nthat combines Explainable AI (XAI) techniques with a Convolutional Neural Network (CNN) architecture...\n\n### Experimental Results\nOpen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made...\n\n### Conclusion & Future Scope\nand outlines prom- ising future directions for research. 2 \u0007 Related Works Various researchers have proposed approaches for brain tumor classification. The inclusion criteria for our research for selecting literature review papers were based on their relevance to deep learning brain tumor classification using MR images. Moreover, papers on brain tumor classification with explainability are also selected. All these selected papers are from the yea...",
+    "keywords": [
+      "Convolutional Neural Network",
+      "Deep Learning",
+      "Explainable Ai",
+      "Brain Tumor Classification 1  Introduction"
+    ]
+  },
+  "6cca3336-8d1c-40f4-bb2a-d9581b1c1691": {
+    "title": "Digital Object Identifier 10.1",
+    "short_summary": "We propose a deep learning-based multi-class classification approach for brain tumor detection, leveraging EfficientNetV2 and Vision Transformer (ViT) models to address this challenge. Tariq et al.: Transforming Brain Tumor Detection Empowering Multi-Class Classification of other brain tumor subtypes, such as meningiomas and pituitary tumors, further exacerbates the clinical intricacy of these patients. Tariq et al.: Transforming Brain Tumor Detection Empowering Multi-Class Classification In recent advancements in brain tumor classification, attention-based methods have proven effective.",
+    "detailed_summary": "### Research Overview\nBrain Tumor is a significant health challenge, with early, precise detection crucial for improving patient outcomes\n\n### Introduction & Background\nBrain tumors, comprising a diverse array of approximately 200 aberrant tissue growths, present a formidable challenge to human health...\n\n### Experimental Results\nDigital Object Identifier 10.1 109/ACCESS.2025.3555638 Transforming Brain Tumor Detection Empowering Multi-Class Classification With Vision Transformers and EfficientNetV2 ANEES TARIQ 1, MUHAMMAD MUNWAR IQBAL 1, MUHAMMAD JAVED IQBAL 1, AND IFTIKHAR AHMAD 2, (Member, IEEE) 1Department of Computer Science, University of Engineering and Technology, Taxila 47050, Pakistan 2Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah 21589,...\n\n### Conclusion & Future Scope\nAND FUTURE WORK This study proposed multi-class brain tumor detection using an EfficientNetV2 and vision transformer. We performed our experiment on a publicly available dataset named the Brain Tumor MRI dataset. The proposed model success- fully detects brain tumors using different images based on brain tumors. The sample comprised glioma, meningioma, no cancer, and pituitary class brain tumor. EfficientNetV2 and ViT models were used, which are...",
+    "keywords": [
+      "Efficientnetv2",
+      "Convolutional Neural Network (Cnn)",
+      "Brain Tumor Vision Transformers (Vit)",
+      "Magnetic Resonance Imaging (Mri)",
+      "Multilayer Perceptron (Mlp)"
+    ]
+  }
+}
