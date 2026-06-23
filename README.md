@@ -139,3 +139,16 @@ An accordion-style checklist of academic project evaluation questions (concernin
 
 ### 6. RAG Q&A Assistant
 An interactive chat window to query paper contents. Behind the scenes, LangChain splits the paper text, stores chunk embeddings in a local FAISS index, and performs semantic search to supply context to the Gemini model.
+
+react
+fastapi
+python
+nlp
+machine-learning
+rag
+faiss
+sentence-transformers
+pdf-processing
+research-paper
+artificial-intelligence
+final-year-project
