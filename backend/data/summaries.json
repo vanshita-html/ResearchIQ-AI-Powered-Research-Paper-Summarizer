@@ -45,5 +45,17 @@
       "Magnetic Resonance Imaging (Mri)",
       "Multilayer Perceptron (Mlp)"
     ]
+  },
+  "e985b543-8edd-4430-9597-e7fd97a80987": {
+    "title": "Academic Editors: Ming-Chang",
+    "short_summary": "Brain Tumor Detection and Prediction in MRI Images Utilizing a Fine-Tuned Transfer Learning Model Integrated Within Deep Learning Frameworks. This study aims to enhance brain tumor classification via deep transfer learning architectures using fine-tuned transfer learning, an advanced approach within artificial intelligence. Keywords: brain tumor; image processing; augmentation; deep learning; transfer learning; fine-tune; InceptionResNetV2; VGG19; Xception; MobileNetV2 1.",
+    "detailed_summary": "### Research Overview\nBrain tumor diagnosis is a complex task due to the intricate anatomy of the brain and the heterogeneity of tumors\n\n### Introduction & Background\nThe human brain is an essential organ that coordinates perception, cognition, emotion, and behavior...\n\n### Experimental Results\nshow that the Xception model outperformed other architectures, achieving an accuracy of 96.11%...\n\n### Conclusion & Future Scope\nin Section 6 sum- marizes key findings, highlights the study’s contributions, discusses practical applications, and provides final reflections. References and any necessary appendices are included at the end of the paper to support the research and provide additional information. 2. Literature Review The categorization of brain MRI pictures has been the subject of several investigations. For example, S. Kumar et al. [13] achieved a remarkable max...",
+    "keywords": [
+      "Brain Tumor",
+      "Image Processing",
+      "Augmentation",
+      "Deep Learning",
+      "Transfer Learning"
+    ]
   }
 }

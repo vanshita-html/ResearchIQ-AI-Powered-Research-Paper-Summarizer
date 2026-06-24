@@ -166,5 +166,47 @@
       "question": "What is the significance of features extracted during analysis?",
       "answer": "INDEX TERMS EfficientNetV2, convolutional neural network (CNN), brain tumor vision transformers (ViT), magnetic resonance imaging (MRI), multilayer perceptron (MLP)."
     }
+  ],
+  "e985b543-8edd-4430-9597-e7fd97a80987": [
+    {
+      "question": "What is the primary objective of this research paper?",
+      "answer": "By integrating these deep learning architectures within the transfer learning frame- work, this research aims to achieve several key objectives, as follows: • Enhanced Detection Accuracy: By leveraging the learned representations from pre- trained models and fine-tuning them on MRI images, the aim is to improve the accuracy of detecting brain tumors."
+    },
+    {
+      "question": "What core methodology or model architecture is proposed?",
+      "answer": "Source Methodology Dataset Accuracy [46] Faster R-CNN with Transfer Learning - 0.9300 [47] Dense Fused Maxout Network BraTS and Figshare 0.9200 [48] CNN BraTS 2018 0.9267 [30] VGG16, InceptionV3, and ResNet50 - 0.9158 [49] VGG-19 CE-MRI 3064 images from 233 patients. 0.9482 [50] Custom CNN architecture, BAT Algorithm BraTS2015 0.9200 [51] U-Net architecture GANs TCGA-GBM and TCGA-LGG 0.8882 [52] Stack autoencoder in DL BraTS 2015 0.9500 [53] DNN BraTS2014 0.9310 [54] Pre-trained CNN CE-MRI 0.9458 [55] Active DNN BraTS2018 0.9250 [56] NS-CNN TCGA-GBM 0.9562 [57] BRAIN-TUMOR-net - 0.9367 [58] XG-Ada-RF (Ensemble of Extreme Gradient Boosting, Ada-Boost, and Random Forest) Figshare 0.9590 [59] VGG16 + RESNET Kaggle, Figshare, SARTAJ, Br35H 0.9200 Proposed Fine-Tuned Transfer Learning InceptionResNetV2 Kaggle 0.9226 Proposed Fine-Tuned Transfer Learning VGG19 Kaggle 0.9246 Proposed Fine-Tuned Transfer Learning Xception Kaggle 0.9611 Proposed Fine-Tuned Transfer Learning MobileNetV2 Kaggle 0.9448 Life 2025, 15, 327 29 of 37 Life 2025, 15, x FOR PEER REVIEW 29 of 38 Figure 17."
+    },
+    {
+      "question": "Which dataset or evaluation data was utilized?",
+      "answer": "Fine-tuning the model allows it to adapt to specific mathematical datasets, reducing the need for extensive labeled data."
+    },
+    {
+      "question": "What classification algorithm or neural network models are evaluated?",
+      "answer": "The Brain Tumor Classification-Fast Convolution Neural Network (BTC-fCNN) model is presented in Ref. [36]."
+    },
+    {
+      "question": "What are the primary performance metrics achieved (e.g. accuracy)?",
+      "answer": "The accuracy and other performance metrics, such as precision and recall, are compared across the four architectures (InceptionResNetV2, VGG19, Xception, and MobileNetV2) to determine which model performs best in classifying brain tumors."
+    },
+    {
+      "question": "How does the proposed method compare with state-of-the-art systems?",
+      "answer": "Compared to state-of-the-art models, it demonstrates superior robustness and performance, reinforcing its clinical applicability."
+    },
+    {
+      "question": "What key limitations or technical challenges are identified?",
+      "answer": "Section 5 (Discussion and Com- parison) interprets the results in the context of the research objectives, compares findings with previous studies, discusses theoretical and practical implications, acknowledges study limitations, and suggests areas for future research."
+    },
+    {
+      "question": "What future work or directions do the authors suggest?",
+      "answer": "Future work will focus on clinical implementation and Life 2025, 15, 327 5 of 37 adaptability."
+    },
+    {
+      "question": "What practical or clinical applications does this research target?",
+      "answer": "Finally, the Conclusion in Section 6 sum- marizes key findings, highlights the study’s contributions, discusses practical applications, and provides final reflections."
+    },
+    {
+      "question": "What is the significance of features extracted during analysis?",
+      "answer": "The integration of explainable AI (XAI) techniques is necessary to enhance model transparency and clinical acceptance."
+    }
   ]
 }

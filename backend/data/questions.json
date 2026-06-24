@@ -60,5 +60,19 @@
       "answer": "[Offline Local RAG] No direct sentence matches found, but here is the retrieved context from the paper:\n\nthe B.Sc. degree from The Islamia University of\nBahawalpur, Bahawalpur, Pakistan, in 1999, the\nM.Sc. degree in computer science from the Univer-\nsity of Agriculture, Faisalabad, Pakistan, in 2001,\nthe M.S./M.Phil. degree in computer science from\nthe COMSATS Institute of Information Technol-\nogy, Abbottabad, Pakistan, in 2007, and the Ph.D.\ndegree in information technology from Universiti\nTeknologi PETRONAS, Malaysia, in 2011. He has\nbeen a Faculty Member and a Research Supervisor at various universities,\nsince 2001. He is currently a Faculty Member with the Information Tech-\nnology Department, Faculty of Computing and Information Technology,\nKing Abdulaziz University. He has been involved in several funded projects\nas PI and Co-PI. He has published several papers in reputed journals and\nconferences. He is also a member of several scientific and professional\nbodies.\n63876\nVOLUME 13, 2025\n\nof Engineering and Technology, Lahore, Pakistan.\nHe is currently an Assistant Professor with the\nDepartment of Computer Science, University of Engineering and Technol-\nogy at Taxila, Taxila, Pakistan. He has authored and co-authored journal\nand conference papers in computer science at national and ...",
       "timestamp": "2026-06-23T13:43:38.441854Z"
     }
+  ],
+  "e985b543-8edd-4430-9597-e7fd97a80987": [
+    {
+      "id": "de82ba27-866c-4fb1-98ed-c035d3d70422",
+      "question": "What key results or accuracies were achieved?",
+      "answer": "[Offline Local RAG] Here are the relevant excerpts retrieved from the paper that answer your question:\n\n• Next, Section 4 (Model Performance and Evaluation Parameters) describes the models used, defines performance metrics, presents the results of the model evaluations, and discusses validation techniques.\n• Section 5 (Discussion and Com- parison) interprets the results in the context of the research objectives, compares findings with previous studies, discusses theoretical and practical implications, acknowledges study of deep learning models, especially refined transfer learning models, as they are frequently viewed as “black boxes”.\n\nNote: Synthesized in offline mode due to AI API limit.",
+      "timestamp": "2026-06-23T16:55:01.731531Z"
+    },
+    {
+      "id": "b94854ae-9025-48c9-ae6c-2460fedfcad7",
+      "question": "What methodology or architecture is proposed?",
+      "answer": "[Offline Local RAG] Here are the relevant excerpts retrieved from the paper that answer your question:\n\n• Algorithm 2 Steps for Xception Neural Network Architecture Step-1 Initial Convolution Layer Y1 = σ(BN(Conv2D(X, W1, b1, s = 2))) Step-2 Each Depthwise Separable Convolution Follows: Y = σ(BN(DepthwiseConv2D(X, Wd, s))) Y = σ \u0000BN \u0000PointwiseConv2D \u0000Y, Wp \u0001\u0001\u0001 Yres = Conv2D(X, Wres, bres, s = 2) Y = Y + Yres ability to generalize.\n\nNote: Synthesized in offline mode due to AI API limit.",
+      "timestamp": "2026-06-23T16:55:15.924024Z"
+    }
   ]
 }
