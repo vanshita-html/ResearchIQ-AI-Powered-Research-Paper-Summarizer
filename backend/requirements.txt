@@ -11,4 +11,3 @@ python-dotenv==1.0.1
 pydantic==2.11.7
 grpcio==1.63.0
 grpcio-status==1.63.0
-google-api-core==2.19.0
