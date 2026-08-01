@@ -10,3 +10,4 @@ python-multipart==0.0.9
 python-dotenv==1.0.1
 pydantic==2.11.7
 protobuf==4.25.3
+sentence-transformers
