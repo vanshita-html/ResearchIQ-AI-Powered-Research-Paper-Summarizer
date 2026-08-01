@@ -34,7 +34,7 @@ const PaperDetails = () => {
     try {
       setLoading(true);
       setError('');
-      const res = await axios.get(`http://localhost:8000/api/papers/${id}`);
+      const res = await axios.get(`${API_BASE_URL}/api/papers`)
       setPaperData(res.data);
     } catch (err) {
       console.error('Failed to load paper details:', err);
@@ -54,7 +54,7 @@ const PaperDetails = () => {
     }
 
     try {
-      await axios.delete(`http://localhost:8000/api/papers/${id}`);
+      await await axios.delete(`${API_BASE_URL}/api/papers/${paperId}`);
       navigate('/dashboard');
     } catch (err) {
       console.error('Error deleting paper:', err);

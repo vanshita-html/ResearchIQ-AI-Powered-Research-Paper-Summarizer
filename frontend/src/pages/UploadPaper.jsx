@@ -98,8 +98,7 @@ const UploadPaper = () => {
     formData.append('file', file);
 
     try {
-      const res = await axios.post('http://localhost:8000/api/papers/upload', formData, {
-        headers: {
+      const res = await axios.post(`${API_BASE_URL}/api/papers/upload`, formData, {        headers: {
           'Content-Type': 'multipart/form-data',
         },
       });

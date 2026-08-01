@@ -21,8 +21,7 @@ const Sidebar = () => {
   const fetchRecentPapers = async () => {
     try {
       setLoading(true);
-      const res = await axios.get('http://localhost:8000/api/papers');
-      setPapers(res.data || []);
+      const res = await axios.get(`${API_BASE_URL}/api/papers`);      setPapers(res.data || []);
     } catch (err) {
       console.error('Failed to load papers in sidebar:', err);
     } finally {

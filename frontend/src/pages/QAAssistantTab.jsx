@@ -247,7 +247,7 @@ const QAAssistantTab = ({ paperId }) => {
   const fetchHistory = async () => {
     try {
       setFetchingHistory(true);
-      const res = await axios.get(`http://localhost:8000/api/papers/${paperId}/qa`);
+      const res = await axios.get(`${API_BASE_URL}/api/papers`)
       const formatted = (res.data || []).map(item => [
         { sender: 'user', text: item.question, timestamp: item.timestamp },
         { sender: 'ai', text: item.answer, timestamp: item.timestamp }
@@ -281,7 +281,7 @@ const QAAssistantTab = ({ paperId }) => {
     setLoading(true);
 
     try {
-      const res = await axios.post(`http://localhost:8000/api/papers/${paperId}/qa`, {
+      const res = await axios.post(`${API_BASE_URL}/api/papers/${paperId}/qa`, {
         question: query
       });
 

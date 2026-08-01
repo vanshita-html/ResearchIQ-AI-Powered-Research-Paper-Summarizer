@@ -27,8 +27,8 @@ const Dashboard = () => {
       setError('');
       // Parallel fetches for stats and papers list
       const [statsRes, papersRes] = await Promise.all([
-        axios.get('http://localhost:8000/api/stats'),
-        axios.get('http://localhost:8000/api/papers')
+        axios.get(`${API_BASE_URL}/api/stats`),
+        axios.get(`${API_BASE_URL}/api/papers`)
       ]);
       setStats(statsRes.data || { total_papers: 0, total_summaries: 0, total_questions: 0 });
       setPapers(papersRes.data || []);
@@ -51,8 +51,7 @@ const Dashboard = () => {
     }
 
     try {
-      await axios.delete(`http://localhost:8000/api/papers/${paperId}`);
-      // Refresh list
+        await axios.delete(`${API_BASE_URL}/api/papers/${paperId}`);      // Refresh list
       fetchDashboardData();
     } catch (err) {
       console.error('Error deleting paper:', err);
