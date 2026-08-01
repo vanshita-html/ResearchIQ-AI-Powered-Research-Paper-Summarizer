@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { API_BASE_URL } from '../config/api';
 import { useNavigate } from 'react-router-dom';
 import { KeyRound, User, BookOpen, AlertCircle } from 'lucide-react';
 import axios from 'axios';
@@ -22,7 +23,7 @@ const Login = () => {
     }
 
     try {
-      const res = await axios.post('http://localhost:8000/api/auth/login', {
+      const res = await axios.post(`${API_BASE_URL}/api/auth/login`, {
         username,
         password
       });
